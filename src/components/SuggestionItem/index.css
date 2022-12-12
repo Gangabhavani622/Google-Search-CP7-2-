@@ -1,0 +1,24 @@
+/* Write your CSS here */
+
+.list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+  margin: 2px;
+}
+
+.arrow-image {
+  height: 20px;
+  width: 20px;
+  color: #bfbfbf;
+  margin: 2px;
+}
+
+.para {
+  color: #475569;
+  font-size: 26px;
+  margin: 2px;
+  font-weight: 400;
+  font-family: 'Roboto';
+}
